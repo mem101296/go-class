@@ -1,2 +1,2 @@
 # go-class
-Put personal goland code for class on udemy
+Put personal golang code for class on udemy
